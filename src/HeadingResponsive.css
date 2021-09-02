@@ -1,0 +1,17 @@
+nav.header {
+  background-color: #ffc401;
+}
+
+.hide-l {
+    display: none;
+}
+
+@media only screen and (max-width: 835px) {
+  .hide-xs {
+    display: none;
+  }
+
+  .show-xs {
+    display: inline;
+  }
+}
