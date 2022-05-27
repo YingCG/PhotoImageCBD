@@ -31,6 +31,9 @@
       "react-app/jest"
     ]
   },
+  "devDependencies": {
+  "eventsource": ">=2.0.2"
+},
   "browserslist": {
     "production": [
       ">0.2%",
